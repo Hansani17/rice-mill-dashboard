@@ -1,0 +1,62 @@
+partner_id,partner_name,partner_type,phone,town,is_supplier,is_customer
+1,Kamal Perera,Farmer,0711419610,Wariyapola,1,0
+2,Sunil Bandara,Farmer & Buyer,0745108603,Hingurakgoda,1,1
+3,Nimal Jayasinghe,Farmer,0722719583,Giriulla,1,0
+4,Ranjith Silva,Farmer,0782458591,Nikaweratiya,1,0
+5,Piyasena Herath,Farmer,0761533224,Polonnaruwa,1,0
+6,Gamini Dissanayake,Farmer,0714668136,Hingurakgoda,1,0
+7,Wijeratne Banda,Farmer & Buyer,0781445199,Mahawa,1,1
+8,Jayantha Kumara,Farmer,0738038374,Hingurakgoda,1,0
+9,Saman Rathnayake,Farmer,0775667265,Polonnaruwa,1,0
+10,Upali Gunasekara,Farmer,0728090293,Dambulla,1,0
+11,Dayananda Wickramasinghe,Farmer,0743608513,Hingurakgoda,1,0
+12,Anura Senanayake,Farmer,0752714803,Anuradhapura,1,0
+13,Chandana Ekanayake,Farmer & Buyer,0762622631,Dambulla,1,1
+14,Lalith Seneviratne,Farmer,0755437923,Polonnaruwa,1,0
+15,Mahinda Karunaratne,Farmer,0779996414,Anuradhapura,1,0
+16,Premasiri Amarasinghe,Farmer,0762322047,Mahawa,1,0
+17,Ariyaratne Fernando,Farmer,0747067228,Nikaweratiya,1,0
+18,Sarath Weerasinghe,Farmer,0732166941,Polonnaruwa,1,0
+19,Nandasena Abeysekera,Farmer,0735855124,Anuradhapura,1,0
+20,Tissa Samarasinghe,Farmer,0732694522,Medirigiriya,1,0
+21,Bandula Jayawardena,Farmer,0748606962,Giriulla,1,0
+22,Ruwan Pathirana,Farmer,0753728882,Dambulla,1,0
+23,Somapala Gunawardena,Farmer,0754514944,Giriulla,1,0
+24,Kithsiri Madushanka,Farmer,0742197935,Nikaweratiya,1,0
+25,Janaka Liyanage,Farmer,0729961380,Wariyapola,1,0
+26,Perera Stores,Shop,0733741438,Matale,0,1
+27,Lanka Provision Stores,Shop,0765528972,Gampaha,0,1
+28,Sathosa Corner Shop,Shop,0784684531,Gampaha,0,1
+29,Nimali Grocery,Shop,0751938483,Dambulla,0,1
+30,Ruwan Super,Shop,0706292423,Matale,0,1
+31,Sampath Traders,Shop,0742110460,Dambulla,0,1
+32,Ceylon Food Centre,Shop,0754567281,Gampaha,0,1
+33,Chamara Stores,Shop,0777637601,Gampaha,0,1
+34,Dilini Supermarket,Shop,0773396987,Kandy,0,1
+35,Green Valley Stores,Shop,0725137722,Gampaha,0,1
+36,Hemantha Traders,Shop,0785408072,Gampaha,0,1
+37,Isuru Grocery,Shop,0767700828,Kandy,0,1
+38,Jayasekara Stores,Shop,0733320821,Anuradhapura,0,1
+39,Kumari Provisions,Shop,0772525206,Kurunegala,0,1
+40,Lakmini Stores,Shop,0713564251,Gampaha,0,1
+41,Mahaweli Traders,Shop,0728082668,Anuradhapura,0,1
+42,Nilantha Super,Shop,0717455324,Matale,0,1
+43,Oshadi Stores,Shop,0779877065,Kandy,0,1
+44,Pradeep Grocery,Shop,0781192619,Gampaha,0,1
+45,Rasika Traders,Shop,0715476583,Gampaha,0,1
+46,Samanthi Stores,Shop,0752871534,Kandy,0,1
+47,Thilina Super,Shop,0763653446,Matale,0,1
+48,Udaya Provision,Shop,0705418934,Anuradhapura,0,1
+49,Vijitha Stores,Shop,0729517485,Kurunegala,0,1
+50,Wasantha Traders,Shop,0749517169,Anuradhapura,0,1
+51,Yasodha Grocery,Shop,0733564217,Kandy,0,1
+52,Ama Food City,Shop,0729897858,Kurunegala,0,1
+53,Bandara Stores,Shop,0759197443,Kurunegala,0,1
+54,Cooray Traders,Shop,0717089806,Kandy,0,1
+55,Dhanushka Super,Shop,0731971823,Dambulla,0,1
+56,Rathna Poultry Feeds,By-product buyer,0712437026,Wariyapola,0,1
+57,Silva Brick Works,By-product buyer,0772161193,Mahawa,0,1
+58,Nilwala Cattle Feed,By-product buyer,0723154051,Giriulla,0,1
+59,Kandy Oil Mill Agent,By-product buyer,0773770370,Galewela,0,1
+60,Lakshman Hotel Supplies,By-product buyer,0788099076,Hingurakgoda,0,1
+61,Chaminda Farm Supplies,By-product buyer,0784374754,Wariyapola,0,1

@@ -1,0 +1,27 @@
+expense_id,expense_date,category,amount,description
+1,2026-05-08,Hired Transport,28800.00,Hired lorry for delivery run
+2,2026-05-13,Hired Transport,24800.00,Hired lorry for delivery run
+3,2026-05-15,Packet Printing,15900.00,Printed packets (5/10/25 kg)
+4,2026-05-28,Electricity,112200.00,Electricity bill May 2026
+5,2026-06-16,Machine Maintenance,20800.00,Machine servicing / spare parts
+6,2026-06-23,Other,24800.00,Miscellaneous
+7,2026-06-25,Machine Maintenance,55600.00,Machine servicing / spare parts
+8,2026-06-28,Electricity,113200.00,Electricity bill Jun 2026
+9,2026-07-04,Hired Transport,25800.00,Hired lorry for delivery run
+10,2026-07-07,Hired Transport,19900.00,Hired lorry for delivery run
+11,2026-07-10,Hired Transport,28800.00,Hired lorry for delivery run
+12,2026-07-15,Packet Printing,18900.00,Printed packets (5/10/25 kg)
+13,2026-07-28,Electricity,120100.00,Electricity bill Jul 2026
+14,2026-07-30,Hired Transport,21800.00,Hired lorry for delivery run
+15,2026-08-11,Other,18900.00,Miscellaneous
+16,2026-08-26,Hired Transport,34700.00,Hired lorry for delivery run
+17,2026-08-28,Electricity,117100.00,Electricity bill Aug 2026
+18,2026-09-05,Other,9800.00,Miscellaneous
+19,2026-09-15,Packet Printing,20800.00,Printed packets (5/10/25 kg)
+20,2026-09-18,Other,17900.00,Miscellaneous
+21,2026-09-28,Electricity,86400.00,Electricity bill Sep 2026
+22,2026-10-08,Machine Maintenance,46700.00,Machine servicing / spare parts
+23,2026-10-09,Machine Maintenance,40700.00,Machine servicing / spare parts
+24,2026-10-19,Machine Maintenance,20800.00,Machine servicing / spare parts
+25,2026-10-22,Hired Transport,25800.00,Hired lorry for delivery run
+26,2026-10-28,Electricity,109200.00,Electricity bill Oct 2026
